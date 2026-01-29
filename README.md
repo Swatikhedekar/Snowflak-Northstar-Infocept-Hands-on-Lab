@@ -14,3 +14,7 @@ The application enables users to interact with enterprise data using natural lan
 - Clean UI & simple deployment
 
 ## 🏗 Architecture Overview
+## Resourses
+1. Quick start guide: https://www.snowflake.com/en/developers/guides/getting-started-with-snowflake-intelligence/
+2. 
+3. 
